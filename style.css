@@ -9,7 +9,7 @@ a:link{
 .navbar{background-color: rgb(4, 4, 4);
     display: flex;
     justify-content: center;
-    margin: 50px;
+    margin: 51px;
     border-radius: 10px;
 }
 .navbar a{
